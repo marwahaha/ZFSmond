@@ -1,5 +1,5 @@
 ## ATTENTION
-This software has been abondoned, and is currently not working.
+This software has been abandoned, and is currently not working.
 The ffi module for python has not been updated to ZFS 0.7 and is not working correctly
 Also the installer is shacky with new Python dependency problems.
 
